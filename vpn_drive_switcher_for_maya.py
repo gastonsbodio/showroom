@@ -1,3 +1,11 @@
+##########  Run the bellow code with this lines:    ###########
+#import sys
+#import localizer_tool as lc
+#reload(lc)
+#lc.window.wind.show()
+
+
+
 from __future__ import division
 import pymel.core as pm
 import maya.cmds as mc
