@@ -1,6 +1,6 @@
 #python
 
-# by Gastoncho
+# Author: Gaston Sbodio (gastonsbodio@gmail.com) 
 import lx
 import os
 import sys

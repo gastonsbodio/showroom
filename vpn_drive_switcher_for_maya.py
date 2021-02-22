@@ -1,3 +1,5 @@
+# Author:  Gaston Sbodio (gastonsbodio@gmail.com)
+
 ##########  Run the bellow code with this lines:    ###########
 #import sys
 #import localizer_tool as lc

@@ -1,3 +1,6 @@
+# Author:  Gaston Sbodio (gastonsbodio@gmail.com)
+
+
 import os
 import json
 from functools import partial

@@ -1,3 +1,5 @@
+# Author: Gaston Sbodio (gastonsbodio@gmail.com)
+
 from PySide2 import QtCore, QtGui, QtWidgets
 import exporterUI as customUI
 reload(customUI)

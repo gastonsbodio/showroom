@@ -2,6 +2,8 @@
 # -*- coding: iso-8859-15 -*-
 
 # Author: Leandro Inocencio aka Cesio (cesio.arg@gmail.com)
+# Collaboration & Maintenance. Updates, new Features: Gaston Sbodio (gastonsbodio@gmail.com)
+
 
 # TODO 
 # integrar el pyseq para controlar los archivos de media

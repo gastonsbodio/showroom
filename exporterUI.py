@@ -7,6 +7,10 @@
 #
 # WARNING! All changes made in this file will be lost!
 
+# Author: Gaston Sbodio (gastonsbodio@gmail.com)
+
+
+
 from PySide2 import QtCore, QtGui, QtWidgets
 
 class Ui_ExporterTool(object):

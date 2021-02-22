@@ -1,5 +1,6 @@
-# Desarrollado para LaSociedadPost
+# Desarrollado para LaSociedadPost - Nonstop
 # Author: Leandro Inocencio aka Cesio (cesio.arg@gmail.com)
+# Collaboration & Maintenance. Updates, new Features: Gaston Sbodio (gastonsbodio@gmail.com)
 
 from lasp.tactic.utils import autofix_path, SaveVersion_Publish, lenSequence, existsSequence
 from lasp.tactic.extractor import get_info_from_media

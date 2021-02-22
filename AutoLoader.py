@@ -1,6 +1,6 @@
 # Desarrollado para LaSociedadPost
 # Author: Leandro Inocencio aka Cesio (cesio.arg@gmail.com)
-
+# Collaboration & Maintenance. Updates, new Features: Gaston Sbodio (gastonsbodio@gmail.com)
 
 from urllib import urlopen
 from functools import partial
